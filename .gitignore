@@ -1,0 +1,2 @@
+# Track internal .gitignore files
+!uni-app/.gitignore
