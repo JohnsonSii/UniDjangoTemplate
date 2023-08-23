@@ -1,0 +1,5 @@
+djangoServer/__pycache__/
+localApis/__pycache__/
+
+localApis/migrations/__pycache__/
+localApis/migrations/0001_initial.py
